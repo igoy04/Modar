@@ -1,19 +1,14 @@
-# bomcall
+# SpamSms
+Spam sms (NEW UPDATE)
 
-Bom call script
-
-Cara install
-
-Pkg install git
-
-Pkg install php
-
-Git clone https://github.com/sixtysix-Team/bomcall
-
-cd bomcall
-
-Php bomcall.php
-
-
-Note : input nomor gunakan 62, contoh 62896122****
-Hanya bisa digunakan 10 kali dalam satu nomor
+# How To Use
+> PYTHON 3.X
+```
+apt update && pkg upgrade
+apt install python
+apt install git
+git clone https://github.com/KANG-NEWBIE/SpamSms
+pip install requests mechanize bs4
+cd SpamSms
+python main.py
+```
